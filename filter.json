@@ -1,0 +1,16 @@
+{
+    "and": [
+        {
+            "property": "日付",
+            "date": {
+                "on_or_after": "xxxx-xx-xx"
+            }
+        },
+        {
+            "property": "日付",
+            "date": {
+                "on_or_before": "xxxx-xx-xx"
+            }
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+[
+    {
+        "name" : "名前",
+        "type" : "text"
+    },
+    {
+        "name" : "日付",
+        "type" : "date"
+    },
+    {
+        "name" : "カテゴリ",
+        "type" : "rich_text"
+    },
+    {
+        "name" : "詳細",
+        "type" : "rich_text"
+    },
+    {
+        "name" : "工数",
+        "type" : "number"
+    },
+    {
+        "name" : "種別",
+        "type" : "select"
+    }
+]

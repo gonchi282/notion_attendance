@@ -1,0 +1,13 @@
+{
+    "name": "notion-example",
+    "type": "module",
+    "version": "1.0.0",
+    "description": "",
+    "main": "main.js",
+    "dependencies": {
+        "@notionhq/client": "^1.0.1",
+        "csv": "^6.2.0",
+        "csv-stringify": "^6.2.0",
+        "iconv-lite": "^0.6.3"
+    }
+}
